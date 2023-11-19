@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.64c2dfdf.css",
-    "main.js": "/static/js/main.aa33adaa.js",
-    "index.html": "/index.html",
-    "main.64c2dfdf.css.map": "/static/css/main.64c2dfdf.css.map",
-    "main.aa33adaa.js.map": "/static/js/main.aa33adaa.js.map"
+    "main.css": "/authentication-form-react/static/css/main.64c2dfdf.css",
+    "main.js": "/authentication-form-react/static/js/main.aa33adaa.js",
+    "index.html": "/authentication-form-react/index.html",
+    "main.64c2dfdf.css.map": "/authentication-form-react/static/css/main.64c2dfdf.css.map",
+    "main.aa33adaa.js.map": "/authentication-form-react/static/js/main.aa33adaa.js.map"
   },
   "entrypoints": [
     "static/css/main.64c2dfdf.css",
